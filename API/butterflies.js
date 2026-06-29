@@ -1,4 +1,4 @@
-// api/butterflies.js — uses Upstash Redis via HTTP (no SDK needed)
+//api/butterflies.js — uses Upstash Redis via HTTP (no SDK needed)
 
 const KEY = 'grow_together:butterflies';
 
